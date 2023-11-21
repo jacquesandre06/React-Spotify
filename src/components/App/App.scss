@@ -1,0 +1,13 @@
+.App {
+  margin: auto;
+  background-color: white;
+  padding: 1rem;
+  width: 800px;
+  min-height: 100vh;
+  .logo {
+    text-align: center;
+    img {
+      width: 120px;
+    }
+  }
+}
