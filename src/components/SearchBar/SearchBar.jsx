@@ -9,6 +9,7 @@ const SearchBar = () => {
             icon="search"
             placeholder="Recherche par Artiste"
             iconPosition="left"
+            value=""
           />
         </Form.Field>
       </Form>

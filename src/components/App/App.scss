@@ -4,10 +4,13 @@
   padding: 1rem;
   width: 800px;
   min-height: 100vh;
-  .logo {
-    text-align: center;
-    img {
-      width: 120px;
-    }
-  }
+}
+img {
+  width: 120px;
+  display: flex;
+  text-align: center;
+}
+.App-header {
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
 }
